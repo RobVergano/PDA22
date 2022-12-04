@@ -33,7 +33,8 @@ Jupyter noteebok.
 
 ## 5. HOW TO OPEN THE PROJECT. 
 
-1. Open the file Project 1 PDA 2022.ipynb in a jupyter notebook.
+1. Open the file Project 1 PDA 2022.ipynb
+2. Download the file and open with a jupyter notebook.
 2. Press "Cell" and then "Run all".
 
 ## 6. FINDINGS AND FURURE LEARNINGS.
