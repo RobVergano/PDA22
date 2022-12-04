@@ -2,7 +2,7 @@
  Programming in data analytics module
  Author: Roberto Vergano
 
-## 1. OBJECTIVE
+## 1. PROJECT OBJECTIVE
 
 Model and synthesize a dataset based on a real-world phenomenon.
 
@@ -17,5 +17,27 @@ Model and synthesize a dataset based on a real-world phenomenon.
 4. Data prediction in the simulated dataset.  
 5. Discussion.  
 6. References.  
+
+## 3. FILES ATTACHED.
+
+1. data.csv: breast cancer Wisconsin dataset.  
+
+Also available in: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data?resource=download  
+
+2. Project 1 PDA 2022.ipynb : jupyter notebook.  
+
+## 4. SOFTWARE USED
+
+Python.  
+Jupyter noteebok.  
+
+## 5. HOW TO OPEN THE PROJECT. 
+
+1. Open the file Project 1 PDA 2022.ipynb in a jupyter notebook.
+2. Press "Cell" and then "Run all".
+
+
+
+
 
 
