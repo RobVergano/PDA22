@@ -40,7 +40,7 @@ Jupyter noteebok.
 
 Pandas, matplotlib, seaborn and numpy offer an incredible set of options to work with datasets. From working with arrays to data visualization, this project made more familiar with these python libraries and also, to understand how they can be related to each other.  
 
-My next step with this project is to understand and apply machine learning concepts in order to improve the results and take the programming in data analysis to another level. 
+My next step with this project is to understand and apply machine learning concepts in order to improve the results and take the programming in data analytics to another level. 
 
 
 
